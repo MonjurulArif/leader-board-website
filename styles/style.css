@@ -1,0 +1,39 @@
+body {
+  background-color: #ddd7d7;
+}
+main {
+  width: 870px;
+  margin-top: 25px;
+}
+.top-player {
+  background-color: #ffffff;
+}
+.navbar img {
+  width: 40px;
+}
+.player img {
+  width: 56px;
+}
+.card {
+  border: none;
+}
+.card-footer {
+  border: none;
+  background-color: #ffffff;
+}
+h3 {
+  padding: 20px 10px 0px 0px;
+  color: #562eff;
+}
+
+section {
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.card-group p {
+  color: #bd511ec9;
+}
+.navigation {
+  padding-left: 450px;
+  padding-right: 450px;
+}
